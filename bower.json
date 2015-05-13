@@ -12,16 +12,5 @@
     "jsonschema",
     "editor"
   ],
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "*.md",
-    "tests",
-    "examples",
-    "demo.html",
-    "*.png",
-    "package.json",
-    "Gruntfile.js",
-    "src"
-  ]
+  "license": "MIT"
 }
